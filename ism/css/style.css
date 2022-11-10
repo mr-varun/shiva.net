@@ -11,6 +11,8 @@
 
 #ism{
 	/*opacity: 0.5;*/
+	/*border: opx solid white;
+	background-color: blue;*/
 	position: fixed;
 	height: 50px;
 	padding-top: 20px;
