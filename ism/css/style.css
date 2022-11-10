@@ -1,0 +1,35 @@
+*{
+	/*font-family: 'Times New Roman', Times, serif;*/
+	font-family: cursive;
+}
+
+#heading{
+	text-align: center;
+	font-size: 52px;
+	color: ;
+}
+
+#ism{
+	/*opacity: 0.5;*/
+	position: fixed;
+	height: 50px;
+	padding-top: 20px;
+	padding-left: 20px;
+	top: 0;
+}
+
+div#wmark{
+	font-family: cursive;
+	font-size: 50px;
+	color: gray;
+	/*opacity: 0.5;*/
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	padding-right: 30px;
+}
+
+main{
+	text-align: center;
+	opacity: 0.3;
+}
