@@ -21,7 +21,7 @@
 #ism:hover{
     background-image: none;
     height: 65px;
-    padding: 0;
+    padding: 0; 
 }
 
 div#wmark{
@@ -38,9 +38,6 @@ div#wmark{
 #vicon{
 	text-align: center;
 	opacity: 0.12;
-	/*position: fixed;
-	right: 0;
-	top: 0;*/
 }
 
 
