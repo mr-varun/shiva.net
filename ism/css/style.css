@@ -21,18 +21,7 @@
 #ism:hover{
     background-image: none;
     height: 65px;
-    padding: 0; 
-}
-
-div#wmark{
-	font-family: cursive;
-	font-size: 50px;
-	color: gray;
-	opacity: 0.5;
-	position: fixed;
-	bottom: 0;
-	right: 0;
-	padding-right: 30px;
+    padding: 0;
 }
 
 #vicon{
@@ -40,6 +29,16 @@ div#wmark{
 	opacity: 0.12;
 }
 
+div#wmark{
+	font-family: cursive;
+	font-size: 30px;
+	color: gray;
+	opacity: 0.5;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	padding: 30px;
+}
 
 
 
