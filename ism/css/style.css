@@ -12,7 +12,7 @@
 	position: fixed;
 	height: 50px;
 	border: 0px white solid;
-    background-image: linear-gradient(orange,white,green);
+    /*background-image: linear-gradient(orange,white,green);*/
     margin: 20px 0 0 20px;
 	padding: 10px;
 	top: 0;
@@ -20,8 +20,9 @@
 
 #ism:hover{
     background-image: none;
+    background-image: linear-gradient(orange,white,green);
     height: 65px;
-    padding: 0;
+    padding: 20x;
 }
 
 #vicon{
