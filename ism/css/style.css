@@ -41,5 +41,13 @@ p#wmark{
 	padding: 30px;
 }
 
+div a#cat{
+	text-decoration: none;
+	color: rgb(0,0,0);
+	font-size: 25px;
+	padding-left: 50px;
+}
+
+
 
 
