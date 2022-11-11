@@ -1,6 +1,5 @@
 *{
-	/*font-family: 'Times New Roman', Times, serif;*/
-	font-family: cursive;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 #heading{
@@ -10,13 +9,12 @@
 }
 
 #ism{
-	/*opacity: 0.5;*/
-	/*border: opx solid white;
-	background-color: blue;*/
 	position: fixed;
 	height: 50px;
-	padding-top: 20px;
-	padding-left: 20px;
+	border: 0px white solid;
+    background-image: linear-gradient(orange,white,green);
+    margin: 20px 0 0 20px;
+	padding: 10px;
 	top: 0;
 }
 
@@ -24,14 +22,21 @@ div#wmark{
 	font-family: cursive;
 	font-size: 50px;
 	color: gray;
-	/*opacity: 0.5;*/
+	opacity: 0.5;
 	position: fixed;
 	bottom: 0;
 	right: 0;
 	padding-right: 30px;
 }
 
-main{
+#vicon{
 	text-align: center;
-	opacity: 0.3;
+	opacity: 0.12;
+	/*position: fixed;
+	right: 0;
+	top: 0;*/
 }
+
+
+
+
