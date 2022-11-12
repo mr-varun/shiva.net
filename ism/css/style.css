@@ -26,10 +26,6 @@
 }
 
 #vicon{
-	position: fixed;
-	top: 0;
-	right: 0;
-	padding: 20px;
 	text-align: center;
 	opacity: 0.12;
 }
@@ -51,6 +47,7 @@ div a#cat{
 	font-size: 25px;
 	padding-left: 50px;
 }
+
 
 
 
