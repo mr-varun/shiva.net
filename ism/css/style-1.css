@@ -1,0 +1,47 @@
+*{
+	font-family: 'Times New Roman', Times, serif;;
+}
+
+h1{
+	text-align: center;
+}
+
+
+table tr td{
+	position: relative;
+	left: 310px;
+	height: 250px;
+	width: 100px;
+}
+
+#v{
+	background-color: violet;
+}
+
+#i{
+	background-color: indigo;
+}
+
+#b{
+	background-color: blue;
+}
+
+#g{
+	background-color: green;
+}
+
+#y{
+	background-color: yellow;
+}
+
+#o{
+	background-color: orange;
+}
+
+#r{
+	background-color: red;
+}
+
+#rnbw{
+	background: linear-gradient(to right, violet, blue, green, yellow, orange, red);
+}
