@@ -13,6 +13,7 @@ header{
 }
 
 #ism{
+/*	display: flex;*/
 	position: fixed;
 	height: 50px;
 	border: 0px white solid;
@@ -43,4 +44,17 @@ header{
 	bottom: 0;
 	right: 0;
 	padding: 15px;
+}
+
+table a{
+	text-decoration: none;
+	color: black;
+/*	font-style: bold;*/
+	font-weight: 600;
+	font-size: 35px;
+}
+
+table a:hover{
+	color: gray;
+	background-image: linear-gradient(blue,pink);;
 }
