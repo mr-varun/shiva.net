@@ -22,15 +22,3 @@ form{
 	position: relative;
 	left: 82%;
 }
-
-#indian{
-	writing-mode: vertical-lr;
-	font-family: cursive;
-	font-size: 20px;
-	color: gray;
-	opacity: 0.59;
-	position: fixed;
-	bottom: 0;
-	right: 0;
-	padding: px;
-}

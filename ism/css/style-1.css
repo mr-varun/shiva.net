@@ -52,15 +52,3 @@ div.rb{
 	width: 820px;
 	background: linear-gradient(to right, violet, blue, green, yellow, orange, red);
 }
-
-#indian{
-	writing-mode: vertical-lr;
-	font-family: cursive;
-	font-size: 20px;
-	color: gray;
-	opacity: 0.59;
-	position: fixed;
-	bottom: 0;
-	right: 0;
-	padding: 15px;
-}
