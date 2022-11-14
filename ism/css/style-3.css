@@ -1,0 +1,38 @@
+body{
+	background-color: ;
+}
+
+h2,h4,p{
+	text-align: center;
+}
+
+p#para{
+	position: relative;
+	left: 25%;
+	width: 50%;
+}
+
+
+form{
+	text-align: center;
+}
+
+#button{
+	background-color: yellow;
+}
+
+
+
+
+
+#indian{
+	writing-mode: vertical-lr;
+	font-family: cursive;
+	font-size: 20px;
+	color: gray;
+	opacity: 0.59;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	padding: 15px;
+}
