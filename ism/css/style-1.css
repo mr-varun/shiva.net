@@ -6,12 +6,15 @@ h1{
 	text-align: center;
 }
 
+div.main{
+	margin:0 0 0 250px;
+}
 
-table tr td{
-	position: relative;
-	left: 310px;
+div.rb{
+	margin: 50px 20px 0 0;
 	height: 250px;
 	width: 100px;
+	float: left;
 }
 
 #v{
@@ -42,6 +45,6 @@ table tr td{
 	background-color: red;
 }
 
-#rnbw{
+/*#rnbw{
 	background: linear-gradient(to right, violet, blue, green, yellow, orange, red);
-}
+}*/
