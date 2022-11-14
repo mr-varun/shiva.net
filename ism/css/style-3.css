@@ -1,5 +1,10 @@
+*{
+	font-family: 'Times New Roman', Times, serif;
+}
+
 body{
-	background-color: ;
+	background-color: #021630;
+	color: white;
 }
 
 h2,h4,p{
@@ -17,8 +22,16 @@ form{
 	text-align: center;
 }
 
+input{
+	width: 120px;
+}
+
 #button{
 	background-color: yellow;
+	height: 35px;
+	width: 80px;
+	font-size: 20px;
+	border-radius: 10px;
 }
 
 
