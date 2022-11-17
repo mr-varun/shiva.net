@@ -2,19 +2,15 @@
 	font-family: 'Times New Roman', Times, serif;
 }
 
-header{
-
-}
-
 #heading{
+	display: flex;
 	text-align: center;
-	font-size: 52px;
+	font-size: 35px;
 	color: ;
 }
 
 #ism{
-/*	display: flex;*/
-	position: fixed;
+	position: flex;
 	height: 50px;
 	border: 0px white solid;
     margin: 20px 0 0 20px;
@@ -30,28 +26,22 @@ header{
 }
 
 #vicon{
-	text-align: center;
+	display: flex;
 	opacity: 0.12;
+
 }
 
-/*#indian{
-	writing-mode: vertical-lr;
-	font-family: cursive;
-	font-size: 20px;
-	color: gray;
-	opacity: 0.59;
-	position: fixed;
-	bottom: 0;
-	right: 0;
-	padding: 15px;
-}*/
-
 table a{
+	max-width: ;
 	text-decoration: none;
 	color: black;
-	font-weight: 600;
-	font-size: 35px;
+	font-size: ;
 	text-align: center;
+}
+
+table tr td{
+	max-width: 200px;
+	min-width: 20px;
 }
 
 table a:hover{
