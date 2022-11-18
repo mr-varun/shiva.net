@@ -3,7 +3,7 @@
     min-width: 400px;
     height: 800px;
     min-height: 400px;
-    margin: 50px 25%;
+    margin: 50px auto;
     border: 15px solid #333;
 }
 
