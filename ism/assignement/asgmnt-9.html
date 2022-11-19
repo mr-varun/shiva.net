@@ -13,28 +13,39 @@
 		<div id="one">
 			<form action="">
 				<div id="colomn">
-					<label for="name">Name:</label>
-					<input type="text" name="name" id="name"><br><br>
-					<label for="mobile">Phone:</label>
-					<input type="number" name="mobile" id="mobile"><br><br>
-					<label for="email">Email: </label>
-					<input type="email" name="email" id="email"><br><br>
-					<label for="date">Pickup Date/Time:</label>
-					<input type="datetime-local" name="date" id="date"><br><br>
-					<label for="place">Pickup place:</label>
-					<select id="place">
-						<option value="select">----Select One----</option>
-						<option value="India">ISRO</option>
-						<option value="America">NASA</option>
-						<option value="China">Covid-19</option>
-					</select><br><br>
-					<label for="dropplace">Dropoff Place:</label>
-					<input type="text" id="dropplace" list="place-2">
-						<datalist id="place-2">
-							<option value="Home">
-							<option value="Shop">
-							<option value="Town">
-						</datalist><br><br>
+					<div class="a">
+						<label for="name">Name:</label>
+						<input type="text" name="name" id="name">
+					</div><br>
+					<div class="a">
+						<label for="mobile">Phone:</label>
+						<input type="number" name="mobile" id="mobile">
+					</div><br>
+					<div class="a">
+						<label for="email">Email: </label>
+						<input type="email" name="email" id="email">
+					</div><br>
+					<div class="a"><label for="date">Pickup Date/Time:</label>
+						<input type="datetime-local" name="date" id="date">
+					</div><br>
+					<div class="a">
+						<label for="place">Pickup place:</label>
+						<select id="place">
+							<option value="select">----Select One----</option>
+							<option value="India">ISRO</option>
+							<option value="America">NASA</option>
+							<option value="China">Covid-19</option>
+						</select>
+					</div><br>
+					<div class="a">
+						<label for="dropplace">Dropoff Place:</label>
+						<input type="text" id="dropplace" list="place-2">
+							<datalist id="place-2">
+								<option value="Home">
+								<option value="Shop">
+								<option value="Town">
+							</datalist>
+					</div><br>
 					<input type="submit" name="submit" id="button" value="Submit Booking">
 				</div>
 			</form>
